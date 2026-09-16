@@ -20,8 +20,7 @@ This program demonstrates the First Come, First Served (FCFS) CPU scheduling alg
 | Average Waiting Time | Average waiting time of all processes | `ΣWT / n` |
 
 ## SOURCE CODE :
-**File :** # PROGRAM 8 : CPU SCHEDULING ALGORITHMS
-
+**File :**[exp8.c] (https://github.com/Yugacyber17/osLab/blob/e8d7aa4466526578e94f50936a1a0acbaff63272/ex08/exp8.c)
 ## AIM :
 To simulate CPU scheduling algorithms (FCFS, SJF, Priority, Round Robin) and compare their performance. Students can evaluate waiting time, turnaround time, and scheduling efficiency (Process management)
 
