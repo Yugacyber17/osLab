@@ -41,7 +41,7 @@ This program demonstrates the First Come, First Served (FCFS) CPU scheduling alg
 | Average Waiting Time | Average waiting time of all processes | `ΣWT / n` |
 
 ## SOURCE CODE :
-**File :** [exp8.c](https://github.com/Balakrishna-0907/osLab/blob/598ffc8e8046dcc9f96030b029bd87cb55948853/ex08/exp8.c)
+**File :** [exp8.c](https://github.com/Yugacyber17/osLab/blob/6d184ec13354bf1f605fcf44c16af9a623e0d0c9/ex08/exp8.c)
 
 ## COMPILATION :
 
